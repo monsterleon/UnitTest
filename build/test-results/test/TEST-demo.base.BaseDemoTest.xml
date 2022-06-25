@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.base.BaseDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-25T06:01:05" hostname="DESKTOP-9U3D9LN" time="0.008">
+  <properties/>
+  <testcase name="should_return_sum25()" classname="demo.base.BaseDemoTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
